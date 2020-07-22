@@ -14,4 +14,4 @@ As cargas horárias devem ser inseridas normalmente, apenas o número inteiro se
 
 Quando terminar de inserir todas as suas notas, digite um valor negativo na próxima vez que for solicitada uma nota e o programa irá lhe mostrar o resultado do cálculo.
 
-## Só isso mesmo. Se alguém quiser melhorar ele, sintam-se a vontade em fazer um fork e enviar um pull request.
+## Só isso mesmo. Caso queiram melhorar ele, sintam-se a vontade em fazer um fork e enviar um pull request :) .
