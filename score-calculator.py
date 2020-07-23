@@ -3,9 +3,9 @@ def calcular_score(notas, cargas_horarias):
   numerador = 0
   denominador = 0
   for i in range(len(notas)):
-    denominador += cargas_horarias[i]
     fator = notas[i]*ch[i]
     numerador += fator
+    denominador += cargas_horarias[i]
   return numerador/denominador
 
 
