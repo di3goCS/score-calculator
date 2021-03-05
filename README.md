@@ -2,7 +2,7 @@
 Para utilizar o script, você precisa ter um interpretador python na sua máquina, ou pode usar uma plataforma online
 como o <a href="https://repl.it/languages/python3">Repl.it</a>.
 
-Baixe o arquivo e rode na sua máquinha, ou se preferir, copie e cole o código no interpretador online.
+Baixe o arquivo e rode na sua máquina, ou se preferir, copie e cole o código no interpretador online.
 
 ### Instruções e recomendações:
 Eu fiz só porque precisava de um cálculo rápido, então não há tratamentos de erro.
